@@ -1,0 +1,1 @@
+# sp-ime-dict
