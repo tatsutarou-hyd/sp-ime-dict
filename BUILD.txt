@@ -1,0 +1,28 @@
+imedict 0.1.0
+generated: 2026-09-28T14:28:27Z
+commit: 1d6bf7a
+entities: 10
+entries (full, before policy): 24
+
+ime	tier	count	excluded
+atok	core	15	0
+macos	core	15	0
+mozc	core	15	0
+msime	core	15	0
+neutral	core	15	0
+skk	core	15	0
+skk-euc	core	15	0
+atok	extended	18	0
+macos	extended	18	0
+mozc	extended	18	0
+msime	extended	18	0
+neutral	extended	18	0
+skk	extended	18	0
+skk-euc	extended	18	0
+atok	full	24	0
+macos	full	24	0
+mozc	full	24	0
+msime	full	24	0
+neutral	full	24	0
+skk	full	24	0
+skk-euc	full	24	0
